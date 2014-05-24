@@ -1,0 +1,10 @@
+
+WARNS=6
+CSTD=c99
+
+PROG=pencil
+SRCS=pencil.c
+NO_MAN= indeed
+
+.include "bsd.prog.mk"
+
